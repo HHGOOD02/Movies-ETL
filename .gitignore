@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+Data/ratings.csv
+Data/movies_metadata.csv
+Data/wikipedia-movies.json
+ratings.csv
+movies_metadata.csv
+wikipedia-movies.json
+
 # Distribution / packaging
 .Python
 build/
